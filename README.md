@@ -1,1 +1,1 @@
-Run the program and input a file in the root
+Run the program and input a file by path
